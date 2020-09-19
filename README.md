@@ -33,3 +33,5 @@ Lec 5. The foundation and basic references for Python Programming, Data Science,
 Lec 6. The necessary components of Software Development Environments (SDE) for Remote GPU-HPC Servers. 
 
 Lec 7. Demonstrations of Python Interactive Programming, Data Visualization, and Convolution Deep Neural Networks as Image Classifiers.
+
+Class materials are based on our class notes, installation instrutions, student discussions, individual office hour appointments, and instructor suggestions, literature reviews.
