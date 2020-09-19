@@ -1,1 +1,1 @@
-# IntroToSoftwareEngineeringInHPCDataScienceDeepLearning_2020Summer
+# IntroToSoftwareEngineeringOfHPCDataScienceDeepLearning_2020Summer
