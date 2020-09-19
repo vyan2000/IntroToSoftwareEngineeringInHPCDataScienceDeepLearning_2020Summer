@@ -1,5 +1,5 @@
-### IntroToSoftwareEngineeringOfHPCDataScienceDeepLearning_2020Summer
-#### Shenzhen University
+# Introduction To Software Engineering Of HPC, Data Science, Deep Learning 
+## Shenzhen University, 2020 Summer
 Computer Vision and Machine Learning Research Group
 Instructor: Yan Yan
 Email: yyan@szu.edu.cn
