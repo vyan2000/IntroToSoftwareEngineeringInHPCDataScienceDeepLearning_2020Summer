@@ -17,7 +17,7 @@ This is a summer short course, as a preliminary course for my doctoral level
 class: Advanced Topics in Computer Vision: Deep Learning and Object Detection
 
 Lec 1. Starting using GitHub as a learning and developing tool for programming.
-* markdown 语法 https://www.jianshu.com/p/40ba812dd973   
+* markdown grammar https://www.jianshu.com/p/40ba812dd973   
 * markdown comments https://www.jianshu.com/p/9be87e7e15bf    
 
 Lec 2. Software Engineering Basics, including data structures, algorithms, object-oriented programming, editing, debugging, and IDE, and the unified framework for programming C, C++, Java, Python, Mathlab, and R.
