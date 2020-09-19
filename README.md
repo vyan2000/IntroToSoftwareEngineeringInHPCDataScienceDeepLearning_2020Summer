@@ -1,4 +1,4 @@
-# Introduction To Software Engineering Of HPC, Data Science, Deep Learning - 2020 Summer
+# Introduction to Software Engineering of HPC, Data Science, and Deep Learning - 2020 Summer
 ## Shenzhen University
 Computer Vision and Machine Learning Research Group
 
