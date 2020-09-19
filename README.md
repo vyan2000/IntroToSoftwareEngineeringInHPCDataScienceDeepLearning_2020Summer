@@ -1,7 +1,7 @@
 #＃＃ IntroToSoftwareEngineeringOfHPCDataScienceDeepLearning_2020Summer
 
-[comment]: <https://www.jianshu.com/p/9be87e7e15bf>  markdown 语法
-[comment]: <https://www.jianshu.com/p/40ba812dd973>  markdown comments
+[comment]: <https://www.jianshu.com/p/9be87e7e15bf     markdown 语法>  
+[comment]: <https://www.jianshu.com/p/40ba812dd973     markdown comments>
 [comment]: <> (This is a comment, it will not be included)
 [comment]: <> (in  the output file unless you use it in)
 [comment]: <> (a reference style link.)
